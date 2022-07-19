@@ -1,6 +1,5 @@
 #include <iostream>
 #include <thread>
-#include <future>
 
 #include <SDL.h>
 
